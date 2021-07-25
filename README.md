@@ -3,7 +3,7 @@
 [![](https://img.shields.io/badge/Code3%20Tech-DevOps%20Tool-%231D8348)](https://hub.docker.com/repository/docker/code3tech/debian)
 [![](https://img.shields.io/docker/cloud/automated/code3tech/debian)](https://hub.docker.com/repository/docker/code3tech/debian)
 [![](https://img.shields.io/docker/cloud/build/code3tech/debian)](https://hub.docker.com/repository/docker/code3tech/debian)
-[![](https://img.shields.io/docker/image-size/code3tech/debian/latest)](https://hub.docker.com/repository/docker/code3tech/debian)
+[![](https://img.shields.io/docker/image-size/code3tech/debian/stretch)](https://hub.docker.com/repository/docker/code3tech/debian)
 [![](https://img.shields.io/docker/pulls/code3tech/debian)](https://hub.docker.com/repository/docker/code3tech/debian)
 [![](https://img.shields.io/docker/stars/code3tech/debian)](https://hub.docker.com/repository/docker/code3tech/debian)
 [![](https://img.shields.io/github/issues/code3tech/docker-debian-systemd)](https://hub.docker.com/repository/docker/code3tech/debian)

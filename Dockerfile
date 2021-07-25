@@ -1,4 +1,4 @@
-FROM debian:bullseye
+FROM debian:stretch
 
 LABEL maintainer="Code3 Tech <it.code3@gmail.com>"
 
